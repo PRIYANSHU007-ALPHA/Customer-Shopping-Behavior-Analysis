@@ -295,9 +295,9 @@ B.Tech Computer Science & Engineering Student
 
 **Skills:** Python | SQL | PostgreSQL | Excel | Power BI | Data Analytics | Data Visualization
 
-🔗 **GitHub:** https://github.com/your-username
+🔗 **GitHub:** https://github.com/PRIYANSHU007-ALPHA
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/your-profile/
+🔗 **LinkedIn:** www.linkedin.com/in/priyanshu-ranjan-247756286
 
 ---
 
